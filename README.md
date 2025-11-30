@@ -1,19 +1,21 @@
-# 💫 About Me:
-Hello! I am H.R. Supun Sulakshana, a Software Engineering undergraduate with a passion for technology and innovation. I am dedicated to exploring new tools, frameworks, and methodologies to enhance my skills and contribute to meaningful projects. My journey in software engineering is fueled by curiosity, problem-solving, and a drive to create efficient and scalable solutions.<br>I created this GitHub account to showcase my projects, collaborate with other developers, and document my learning journey. Feel free to explore my repositories, connect, and share your insights. Let’s build something amazing together! 
+About Me
 
+I am a Software Engineering undergraduate with a strong interest in building reliable, scalable, and efficient software solutions. I’m committed to continuous learning and staying updated with industry standards, development best practices, and modern software engineering methodologies.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Supun Sulakshana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supun.sulakshana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Supun Sulakshana) 
+This GitHub repository reflects my professional journey — featuring projects, experimentation, and real-world problem-solving. I welcome collaboration, feedback, and meaningful connections that contribute to growth and innovation.
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=supuns2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=supuns2001&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supuns2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=supuns2001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Professional Links
+<p> <a href="https://facebook.com/Supun Sulakshana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a> <a href="https://instagram.com/supun.sulakshana"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://linkedin.com/in/Supun Sulakshana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> </p>
+Technical Expertise
+Programming Languages
+<p><img src="https://skillicons.dev/icons?i=java,js,cpp,cs,c,kotlin,php" /></p>
+Frontend & Mobile Development
+<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,reactnative,expo,jquery" /></p>
+Backend, Database & Cloud
+<p><img src="https://skillicons.dev/icons?i=firebase,aws,mongodb,mysql,apache" /></p>
+Design, Tools & Other Skills
+<p><img src="https://skillicons.dev/icons?i=figma,blender,canva,ps,ai,arduino" /></p>
+GitHub Performance
+<p align="left"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=supuns2001&theme=transparent&hide_border=true&show_icons=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=supuns2001&theme=transparent&hide_border=true" /> </p> <p align="left"> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuns2001&theme=transparent&hide_border=true&layout=compact" /> </p>
+Profile Metrics
+<p> <img src="https://visitcount.itsvg.in/api?id=supuns2001&color=1&icon=1" /> </p>
